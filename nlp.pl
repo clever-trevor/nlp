@@ -5,7 +5,7 @@ use strict;
 use CGI qw(param);
  
 print "Content-type: text/html\n\n";
- 
+  
 my $q = new CGI;
  
 my $string = $q->param('string');
