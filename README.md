@@ -5,4 +5,5 @@ A working example can be found here.
 
 [nlp.pl](http://www.clevertrevor.com/cgi-bin/nlp)
 
-The nlp.conf file has a list of naughty words so don't open it if you're easily offended!!!!
+The nlp.conf file has a list of naughty words so don't open it if you're easily offended!
+(You did it, didn't you!!)
